@@ -5,7 +5,6 @@ node_modules/
 out/
 # production
 build/
-.astro/
 
 # misc
 .DS_Store
@@ -29,4 +28,5 @@ next-env.d.ts
 platform.json
 testApi/
 local/
-dist/
+.husky/
+data/*.local.*
